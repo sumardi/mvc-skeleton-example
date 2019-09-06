@@ -1,3 +1,5 @@
+MVC Framework Skeleton (Example)
+
 ├── App                     # Application main folder
 │   ├── Controllers         # Application controllers
 │   └── Models              # Appliation models
